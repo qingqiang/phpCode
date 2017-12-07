@@ -1,4 +1,4 @@
 # phpCode
 phpCode
 
-edit readme
+update readme
