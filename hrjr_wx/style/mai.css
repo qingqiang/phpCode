@@ -1,0 +1,21 @@
+body{
+
+    background-color:  #9FBDF4;
+    
+}
+#login{
+    width: 570px;
+    height: 250px;
+    margin-top: 250px;
+    margin-left: 400px;
+    background-image: url(../images/ht.jpg);
+ 
+}
+#login .weizhi{
+    width: 250px;
+    height: 100px;
+    margin-top: 90px;
+    float: left;
+    margin-left: 70px;
+   
+}
