@@ -2,8 +2,8 @@
 
 $access_token = '5_ZQ8odc0lSAXFsucfjeRHJHlLW5RqmtUSOYQZllbNu_87Yn9T_op0WFmhq3gV4isXLeB7GG-IEx6zZ-4bRwjrNL2sRTl1v3ifZyVLAR2X8jyAUHrLEr33HYPIbhQbKqcHUDSxJv4VqmGmDcelQRMaAGAUVQ';
 
-$appid = 'wx7fef2477d1200cda';
-$secret = 'e5dd1f4d8b1dedae907c71e47861e6f4';
+$appid = '';
+$secret = '';
 //https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7fef2477d1200cda&redirect_uri=http://m.hrjk-p2p.com/login/index.html&response_type=code&scope=SCOPE&state=STATE#wechat_redirect
 
 
